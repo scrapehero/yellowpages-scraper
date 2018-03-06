@@ -1,9 +1,8 @@
 # Yellow Pages Business Details Scraper
 
 Yellowpages.com Web Scraper written in Python and LXML to extract business details available based on a particular category and location.
-# Nasdaq Finance Scraper
-This script will scrape Yellowpages.com to extract business details based on a category and location. If you would like to know more about
-this scraper you can check it out at this link ---
+
+If you would like to know more abou this scraper you can check it out at this link  ---
 
 ## Getting Started
 
