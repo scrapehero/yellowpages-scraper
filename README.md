@@ -53,6 +53,6 @@ python3 yellow_pages.py restaurants Boston,MA
 
 This will create a csv file:
 
-[Sample Output]()
+[Sample Output](https://raw.githubusercontent.com/scrapehero/yellow_pages/master/restaurants-boston-yellowpages-scraped-data.csv)
  
  
