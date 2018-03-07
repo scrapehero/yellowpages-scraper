@@ -2,7 +2,7 @@
 
 Yellowpages.com Web Scraper written in Python and LXML to extract business details available based on a particular category and location.
 
-If you would like to know more abou this scraper you can check it out at the blog post How to Scrape Business Details from Yellow Pages using Python and LXML. 
+If you would like to know more about this scraper you can check it out at the blog post How to Scrape Business Details from Yellow Pages using Python and LXML. 
 
 ## Getting Started
 
