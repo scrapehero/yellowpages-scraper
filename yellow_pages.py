@@ -31,7 +31,7 @@ def parse_listing(keyword,place):
 		try:
 			response = requests.get(url,verify=False, headers = headers )
 			print("parsing page")
-			if response.status_code == 200:
+			if response.status_code==200:
 				parser = html.fromstring(response.text)
 				#making links absolute
 				base_url = "https://www.yellowpages.com"
